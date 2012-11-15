@@ -9,6 +9,8 @@ public class StartClass {
 		// TODO Auto-generated method stub
 		System.out.println("Hej!");
 		System.out.println("Nu är jag med!");
+		
+		System.out.println("Konflikt andra sidan");
 
 	}
 
